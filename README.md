@@ -25,21 +25,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Keshpro&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Keshpro's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshpro&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Keshpro's top languages"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Keshpro&theme=tokyonight&hide_border=true"
